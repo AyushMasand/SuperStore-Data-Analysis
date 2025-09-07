@@ -58,6 +58,7 @@ The Superstore dataset includes columns such as:
 
 ---
 
-Ayush 
-ayushmasand56@gmail.com
+**Ayush**  
+📧 Email: ayushmasand56@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/ayush-masand)  
 
